@@ -1,6 +1,6 @@
 {
   "name": "project1",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "main": "index.js",
   "Description": "This is a sample project for demonstration purposes.",
   "Metadata": {
