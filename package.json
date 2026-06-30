@@ -2,6 +2,12 @@
   "name": "project1",
   "version": "1.0.1",
   "main": "index.js",
+  "Description": "This is a sample project for demonstration purposes.",
+  "Metadata": {
+    "createdBy": "MU",
+    "createdOn": "2024-06-01",
+    "lastModified": "2024-06-01"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
